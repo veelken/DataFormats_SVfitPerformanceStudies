@@ -1,0 +1,5 @@
+<lcgdict>
+  <class name="svFitMEM::GenHadRecoil"/>
+  <class name="std::vector<svFitMEM::GenHadRecoil>"/>
+  <class name="edm::Wrapper<std::vector<svFitMEM::GenHadRecoil> >"/>
+</lcgdict>
